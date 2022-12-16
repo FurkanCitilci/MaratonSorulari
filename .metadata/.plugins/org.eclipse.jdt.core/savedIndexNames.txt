@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Java_kurs\projeler\MaratonSorularý\.metadata\.plugins\org.eclipse.jdt.core
+4059647692.index
+1865797976.index
+2138458415.index
